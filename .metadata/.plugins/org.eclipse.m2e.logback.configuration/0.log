@@ -1,0 +1,25 @@
+2018-10-23 10:01:14,458 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2018-10-23 10:02:07,996 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\development\github\alex\pom.xml
+2018-10-23 10:02:08,952 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ro.alex:alex:0.0.1-SNAPSHOT @ C:\development\github\alex\pom.xml.
+2018-10-23 10:02:09,485 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alex/src/main/java
+2018-10-23 10:02:09,490 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /alex/src/test/java
+2018-10-23 10:02:10,111 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2018-10-23 10:02:10,552 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:02:10,553 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:02:10,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:02:10,555 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\test\resources
+2018-10-23 10:04:03,422 [Worker-14] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ro.alex:alex:0.0.1-SNAPSHOT @ C:\development\github\alex\pom.xml.
+2018-10-23 10:11:35,458 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: ro.alex:alex:0.0.1-SNAPSHOT @ C:\development\github\alex\pom.xml.
+2018-10-23 10:11:36,597 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:11:36,597 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:11:36,597 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:11:36,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:11:36,599 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\test\resources
+2018-10-23 10:11:39,599 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:11:39,599 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:11:39,599 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:11:39,601 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:11:39,602 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\test\resources
+2018-10-23 10:12:48,410 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-10-23 10:12:48,411 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
+2018-10-23 10:12:48,411 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\development\github\alex\src\main\resources
